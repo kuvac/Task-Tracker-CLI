@@ -12,3 +12,5 @@ Avaliable commands:
   mark-done <id>               - Mark a task as done
   mark-in-progress <id>        - Mark a task as in-progress
   exit                         - Exit the program
+
+This project was developed in accordance with these requirements: https://roadmap.sh/projects/task-tracker
